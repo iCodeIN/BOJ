@@ -1,3 +1,10 @@
+/*************************************************************************
+> File Name: 10828 - Stack.cpp
+> Author: Chan-Ho Chris Ohk
+> Created Time: 2017/01/28
+> Problem Link: https://www.acmicpc.net/problem/10828
+> Copyright (c) 2017, Chan-Ho Chris Ohk
+*************************************************************************/
 #include <iostream>
 #include <stack>
 #include <string>
