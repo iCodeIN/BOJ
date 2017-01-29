@@ -2,5 +2,18 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="10828 - Stack.cpp" />
+    <ClCompile Include="10950 - A + B, Part 3.cpp" />
+    <ClCompile Include="1000 - A + B.cpp" />
+    <ClCompile Include="2557 - Hello World.cpp" />
+    <ClCompile Include="2558 - A + B, Part 2.cpp" />
+    <ClCompile Include="10951 - A + B, Part 4.cpp" />
+    <ClCompile Include="10952 - A + B, Part 5.cpp" />
+    <ClCompile Include="10953 - A + B, Part 6.cpp" />
+    <ClCompile Include="11021 - A + B, Part 7.cpp" />
+    <ClCompile Include="11022 - A + B, Part 8.cpp" />
+    <ClCompile Include="2741 - Print N.cpp" />
+    <ClCompile Include="2742 - Print N Reverse.cpp" />
+    <ClCompile Include="2739 - Gugudan.cpp" />
+    <ClCompile Include="1924 - Year 2007.cpp" />
   </ItemGroup>
 </Project>
