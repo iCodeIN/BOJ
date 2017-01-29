@@ -1,5 +1,5 @@
 /*************************************************************************
-> File Name: 10953 - A + B, Part 5.cpp
+> File Name: 10953 - A + B, Part 6.cpp
 > Author: Chan-Ho Chris Ohk
 > Created Time: 2017/01/29
 > Problem Link: https://www.acmicpc.net/problem/10953
