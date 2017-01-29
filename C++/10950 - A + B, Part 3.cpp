@@ -2,7 +2,7 @@
 > File Name: 10950 - A + B, Part 3.cpp
 > Author: Chan-Ho Chris Ohk
 > Created Time: 2017/01/29
-> Problem Link: hhttps://www.acmicpc.net/problem/10950
+> Problem Link: https://www.acmicpc.net/problem/10950
 > Copyright (c) 2017, Chan-Ho Chris Ohk
 *************************************************************************/
 #include <iostream>
