@@ -2,7 +2,7 @@
 > File Name: 2558 - A + B, Part 2.cpp
 > Author: Chan-Ho Chris Ohk
 > Created Time: 2017/01/28
-> Problem Link: https://www.acmicpc.net/problem/1000
+> Problem Link: https://www.acmicpc.net/problem/2558
 > Copyright (c) 2017, Chan-Ho Chris Ohk
 *************************************************************************/
 #include <iostream>

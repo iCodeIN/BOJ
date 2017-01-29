@@ -2,7 +2,7 @@
 > File Name: 10951 - A + B, Part 4.cpp
 > Author: Chan-Ho Chris Ohk
 > Created Time: 2017/01/29
-> Problem Link: https://www.acmicpc.net/problem/1000
+> Problem Link: https://www.acmicpc.net/problem/10951
 > Copyright (c) 2017, Chan-Ho Chris Ohk
 *************************************************************************/
 #include <iostream>
