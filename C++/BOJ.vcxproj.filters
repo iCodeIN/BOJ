@@ -18,5 +18,13 @@
     <ClCompile Include="10818 - Min, Max.cpp" />
     <ClCompile Include="1000 - A + B, Part 1.cpp" />
     <ClCompile Include="2438 - Print Stars, Part 1.cpp" />
+    <ClCompile Include="2439 - Print Stars, Part 2.cpp" />
+    <ClCompile Include="2440 - Print Stars, Part 3.cpp" />
+    <ClCompile Include="2441 - Print Stars, Part 4.cpp" />
+    <ClCompile Include="2442 - Print Stars, Part 5.cpp" />
+    <ClCompile Include="2444 - Print Stars, Part 7.cpp" />
+    <ClCompile Include="2445 - Print Stars, Part 8.cpp" />
+    <ClCompile Include="2446 - Print Stars, Part 9.cpp" />
+    <ClCompile Include="2522 - Print Stars, Part 12.cpp" />
   </ItemGroup>
 </Project>
