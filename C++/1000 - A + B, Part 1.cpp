@@ -1,5 +1,5 @@
 /*************************************************************************
-> File Name: 1000 - A + B.cpp
+> File Name: 1000 - A + B, Part 1.cpp
 > Author: Chan-Ho Chris Ohk
 > Created Time: 2017/01/28
 > Problem Link: https://www.acmicpc.net/problem/1000
