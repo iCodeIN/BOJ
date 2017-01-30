@@ -3,7 +3,6 @@
   <ItemGroup>
     <ClCompile Include="10828 - Stack.cpp" />
     <ClCompile Include="10950 - A + B, Part 3.cpp" />
-    <ClCompile Include="1000 - A + B.cpp" />
     <ClCompile Include="2557 - Hello World.cpp" />
     <ClCompile Include="2558 - A + B, Part 2.cpp" />
     <ClCompile Include="10951 - A + B, Part 4.cpp" />
@@ -15,5 +14,9 @@
     <ClCompile Include="2742 - Print N Reverse.cpp" />
     <ClCompile Include="2739 - Gugudan.cpp" />
     <ClCompile Include="1924 - Year 2007.cpp" />
+    <ClCompile Include="8393 - Sum.cpp" />
+    <ClCompile Include="10818 - Min, Max.cpp" />
+    <ClCompile Include="1000 - A + B, Part 1.cpp" />
+    <ClCompile Include="2438 - Print Stars, Part 1.cpp" />
   </ItemGroup>
 </Project>
