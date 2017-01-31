@@ -26,5 +26,8 @@
     <ClCompile Include="2445 - Print Stars, Part 8.cpp" />
     <ClCompile Include="2446 - Print Stars, Part 9.cpp" />
     <ClCompile Include="2522 - Print Stars, Part 12.cpp" />
+    <ClCompile Include="10991 - Print Stars, Part 16.cpp" />
+    <ClCompile Include="10992 - Print Stars, Part 17.cpp" />
+    <ClCompile Include="9012 - Parenthesis.cpp" />
   </ItemGroup>
 </Project>
