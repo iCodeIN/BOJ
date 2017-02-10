@@ -30,5 +30,6 @@
     <ClCompile Include="10992 - Print Stars, Part 17.cpp" />
     <ClCompile Include="9012 - Parenthesis.cpp" />
     <ClCompile Include="10799 - Steel Rod.cpp" />
+    <ClCompile Include="1406 - Editor.cpp" />
   </ItemGroup>
 </Project>
